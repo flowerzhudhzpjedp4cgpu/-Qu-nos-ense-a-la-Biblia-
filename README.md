@@ -1,0 +1,2 @@
+- Santifiquen una congregación.
+- Santifique un tiempo de ayuno.
