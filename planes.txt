@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 - TE AMO JEHOVÁ.
 - ¿JESUCRISTO ES DIOS?
 - DIOS ES MI PASTOR & NADA TENDRE SIN EL.
@@ -8,5 +9,9 @@
 - FÉ
 
 >>>>>>> iss53
+=======
+- 10 MANDAMIENTOS DE MOISES.
+
+>>>>>>> hotfix
 
 
