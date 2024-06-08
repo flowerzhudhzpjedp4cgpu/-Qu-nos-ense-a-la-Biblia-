@@ -1,2 +1,1 @@
-- Santifiquen una congregación.
-- Santifique un tiempo de ayuno.
+¿Qué nos enseña la Biblia?
